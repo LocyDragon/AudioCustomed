@@ -1,0 +1,7 @@
+name: AudioCustomed
+main: com.locydragon.ac.AudioCustomed
+version: 1.0.0
+author: LocyDragon
+depend: [AudioBuffer]
+commands:
+  acu:
